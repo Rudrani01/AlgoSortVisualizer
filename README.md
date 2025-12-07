@@ -1,54 +1,43 @@
-Sorting Algorithm Visualizer
+# Sorting Algorithm Visualizer
 
-A web-based interactive application that visualizes the working of popular sorting algorithms using real-time animations. This project is built using vanilla JavaScript, HTML, and CSS to provide a clean and intuitive learning experience.
+A web-based interactive application that visualizes the working of popular sorting algorithms using real-time animations. Built with vanilla JavaScript, HTML, and CSS to provide a clean and intuitive learning experience.
 
-Live Demo
+## Live Demo
 
 https://rudrani01.github.io/AlgoSortVisualizer/
 
-Features
+## Features
 
-Dynamic bar generation with user-controlled size (1–100 elements)
+- Dynamic bar generation with user-controlled size (1–100 elements)
+- Real-time animated swapping of elements
+- Algorithm selection through a dropdown interface
+- Smooth animations using asynchronous JavaScript
+- Clean and responsive user interface
 
-Real-time animated swapping of elements
+## Algorithms Implemented
 
-Algorithm selection through a dropdown interface
+- Bubble Sort  
+- Selection Sort  
+- Insertion Sort  
+- Insertion Sort  
+- Quick Sort  
 
-Smooth animations using asynchronous JavaScript
+## Tech Stack
 
-Clean and responsive user interface
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)
 
-Algorithms Implemented
-
-Bubble Sort
-
-Selection Sort
-
-Insertion Sort
-
-Quick Sort
-
-Tech Stack
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-Learning Outcomes
+## Learning Outcomes
 
 This project strengthened understanding of:
 
-Sorting algorithms
+- Sorting algorithms  
+- Asynchronous JavaScript  
+- DOM manipulation  
+- Modular code design  
 
-Asynchronous JavaScript
+## Author
 
-DOM manipulation
-
-Modular code design
-
-Author
-
-Rudrani Dhomne
+**Rudrani Dhomne**  
 GitHub: https://github.com/rudrani01
