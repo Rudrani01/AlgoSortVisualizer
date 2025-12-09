@@ -18,8 +18,7 @@ https://rudrani01.github.io/AlgoSortVisualizer/
 
 - Bubble Sort  
 - Selection Sort  
-- Insertion Sort  
-- Insertion Sort  
+- Insertion Sort    
 - Quick Sort  
 
 ## Tech Stack
